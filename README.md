@@ -1,5 +1,5 @@
 # 💫 About Me:
- Hi there! I'm Christopher Oduor, a passionate Software Developer with experience in JavaScript, PHP Python, and AI development. I enjoy building web applications, solving coding challenges, and exploring the latest tech trends.  <br><br> 🔭 Currently working on AI-powered web applications  <br> 🌱 Learning advanced React & Python for AI  <br> 💬 Ask me about web development, AI, and automation  <br> ⚡ Fun fact: I love Fantasy Premier League!  <br>
+ Hi there! I'm Christopher Oduor, a passionate Software Developer with experience in JavaScript, PHP, Python, and AI development. I enjoy building web applications, solving coding challenges, and exploring the latest tech trends.  <br><br> 🔭 Currently working on AI-powered web applications  <br> 🌱 Learning advanced React & Python for AI  <br> 💬 Ask me about web development, AI, and automation  <br> ⚡ Fun fact: I love Fantasy Premier League!  <br>
 
 
 # 💻 Tech Stack:
