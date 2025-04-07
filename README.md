@@ -9,7 +9,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Gggghgggh&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gggghgggh&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Gggghgggh&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
