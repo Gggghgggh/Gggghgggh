@@ -7,6 +7,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Gggghgggh&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=Gggghgggh&show_icons=true&theme=radical)
+[![](https://streak-stats.demolab.com/?user=Gggghgggh&theme=dark)](https://git.io/streak-stats)
 ![](https://nirzak-streak-stats.vercel.app/?user=Gggghgggh&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gggghgggh&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
