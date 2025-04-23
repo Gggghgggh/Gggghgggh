@@ -12,8 +12,6 @@
 ![Christopher's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gggghgggh&show_icons=true&theme=dark)
 [![](https://streak-stats.demolab.com/?user=Gggghgggh&theme=dark)](https://git.io/streak-stats)
 <br>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Gggghgggh&theme=dark)](https://git.io/streak-stats)
-<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gggghgggh&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 
