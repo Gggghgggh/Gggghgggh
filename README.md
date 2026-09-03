@@ -9,12 +9,31 @@
 
 
 # 📊 GitHub Stats:
-![Christopher's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gggghgggh&show_icons=true&theme=dark)
-<br>
-[![](https://streak-stats.demolab.com/?user=Gggghgggh&theme=dark)](https://git.io/streak-stats)
-<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gggghgggh&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Gggghgggh&show_icons=true&theme=dark&hide_border=true"
+    alt="Christopher's GitHub Stats"
+  />
+</p>
+
+<br>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Gggghgggh&theme=dark&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+<br>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gggghgggh&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact"
+    alt="Top Languages"
+  />
+</p>
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
